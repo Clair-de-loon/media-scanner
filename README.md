@@ -1,6 +1,6 @@
 # Media-scanner
 
-## Build and Install
+## Build and Install 
 
 ```bash
 git clone https://github.com/alina-altsagirova/media-scanner.git
