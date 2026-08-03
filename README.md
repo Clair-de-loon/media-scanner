@@ -3,7 +3,7 @@
 ## Build and Install 
 
 ```bash
-git clone https://github.com/alina-altsagirova/media-scanner.git
+git clone https://github.com/Clair-de-loon/media-scanner.git
 cd media-scanner
 make all
 ```
